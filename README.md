@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shashank Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer</h3>
-<img alt="Programmer" width="400" height="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<div align="center"><img alt="Programmer" width="400" height="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankvrma&label=Profile%20views&color=0e75b6&style=flat" alt="shashankvrma" /> </p>
 
 - 🔭 I’m currently studying **Masters in Computer Science**
