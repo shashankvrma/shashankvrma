@@ -1,24 +1,19 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shashank Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer</h3>
-<div align="center"><img alt="Programmer" width="400" height="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></div>
+<div align="center"><img alt="Programmer" width="600" height="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankvrma&label=Profile%20views&color=0e75b6&style=flat" alt="shashankvrma" /> </p>
 
-- 🔭 I’m currently studying **Masters in Computer Science**
-
-- 📝 I regularly write articles on [https://hackworld.us](https://hackworld.us)
+- 🔭 I have graduated with **Masters in Computer Science**
 
 - 💬 Ask me about **Java,Spring Boot, React**
 
-- 📫 How to reach me **shashankvrma@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mklylYHgnJphCWNgkkwFyGTxIyK8s4jj6VK925kFdEs/edit?usp=sharing](https://docs.google.com/document/d/1mklylYHgnJphCWNgkkwFyGTxIyK8s4jj6VK925kFdEs/edit?usp=sharing)
+- 📫 How to reach me **shashankverma1306@gmail.com**
 
 - ⚡ Fun fact **I am an excellent debugger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashank-verma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-verma7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashankvrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashankvrma" height="30" width="40" /></a>
 </p>
 
